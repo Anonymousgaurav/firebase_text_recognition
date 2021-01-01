@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890073063986",
+    "project_id": "ml-text-recognition-f4a40",
+    "storage_bucket": "ml-text-recognition-f4a40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890073063986:android:3fd23d62c79a8ee01c922b",
+        "android_client_info": {
+          "package_name": "com.gaurav.firebase_ml_text_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890073063986-audmtjpuag933dl60kuobglfptdu7atf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav.firebase_ml_text_recognition",
+            "certificate_hash": "8d7bd5363fe482f3b8b13615acb2d034331cbce1"
+          }
+        },
+        {
+          "client_id": "890073063986-vov9t3fus48fp317te4dkor4m5eqs95m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6F9e5LSVaoALwOc_AxrCS0muDXlhmOBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890073063986-vov9t3fus48fp317te4dkor4m5eqs95m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

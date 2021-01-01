@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase_Text_Recognition</string>
+    <string name="no_text">No text</string>
+    <string name="permission_request">permission required</string>
+</resources>
